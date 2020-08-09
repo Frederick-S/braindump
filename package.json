@@ -8,7 +8,7 @@
   "dependencies": {
     "bootstrap": "^3.3.6",
     "bootstrap-tagsinput": "^0.7.1",
-    "jquery": "^2.2.3",
+    "jquery": "^3.5.1",
     "moment": "^2.13.0",
     "prosemirror": "^0.6.1"
   },
